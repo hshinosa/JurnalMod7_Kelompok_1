@@ -1,0 +1,15 @@
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\bin\Debug\net8.0\JurnalMod7_Kelompok_1.exe
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\bin\Debug\net8.0\JurnalMod7_Kelompok_1.deps.json
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\bin\Debug\net8.0\JurnalMod7_Kelompok_1.runtimeconfig.json
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\bin\Debug\net8.0\JurnalMod7_Kelompok_1.dll
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\bin\Debug\net8.0\JurnalMod7_Kelompok_1.pdb
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\obj\Debug\net8.0\JurnalMod7_Kelompok_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\obj\Debug\net8.0\JurnalMod7_Kelompok_1.AssemblyInfoInputs.cache
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\obj\Debug\net8.0\JurnalMod7_Kelompok_1.AssemblyInfo.cs
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\obj\Debug\net8.0\JurnalMod7_Kelompok_1.csproj.CoreCompileInputs.cache
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\obj\Debug\net8.0\JurnalMod7_Kelompok_1.sourcelink.json
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\obj\Debug\net8.0\JurnalMod7_Kelompok_1.dll
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\obj\Debug\net8.0\refint\JurnalMod7_Kelompok_1.dll
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\obj\Debug\net8.0\JurnalMod7_Kelompok_1.pdb
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\obj\Debug\net8.0\JurnalMod7_Kelompok_1.genruntimeconfig.cache
+D:\KPL\JurnalMod7_Kelompok_1\JurnalMod7_Kelompok_1\obj\Debug\net8.0\ref\JurnalMod7_Kelompok_1.dll

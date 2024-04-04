@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using JurnalMod7_Kelompok_1;
+class Program
+{
+    private static void Main(string[] args)
+    {
+        DataMahasiswa.ReadJSON();
+    }
+
+}
