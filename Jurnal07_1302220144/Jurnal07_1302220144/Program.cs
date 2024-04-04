@@ -5,5 +5,7 @@ internal class Program
     private static void Main(string[] args)
     {
         DataMahasiswa.ReadJSON();
+        Console.WriteLine();
+        DataMembers.ReadJSON();
     }
 }
