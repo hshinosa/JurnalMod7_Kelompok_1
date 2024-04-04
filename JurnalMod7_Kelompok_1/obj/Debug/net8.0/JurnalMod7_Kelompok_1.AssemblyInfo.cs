@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JurnalMod7_Kelompok_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+308c44a4f769fb8d4a7bcf4e08148e7cc1ad070e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ebfadb0053f430fb8ba65321a983a488835ee28")]
 [assembly: System.Reflection.AssemblyProductAttribute("JurnalMod7_Kelompok_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JurnalMod7_Kelompok_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

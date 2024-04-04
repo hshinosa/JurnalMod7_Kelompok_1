@@ -1,0 +1,46 @@
+{
+  "members" : [
+    {
+       "firstName": "Daffa",
+       "lastName": "Fadillah",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302223124"
+    },
+    {
+       "firstName": "Muhammad Fauzan",
+       "lastName": "Majid",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302220144"
+    },
+    {
+      "firstName": "Hasfi",
+      "lastName": "Hadyan",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302220079"
+    },
+    {
+      "firstName": "Maulana",
+      "lastName": "Farras",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022390001"
+    },
+    {
+      "firstName": "Soraya Haidar",
+      "lastName": "Salma",
+      "gender": "female",
+      "age": 20,
+      "nim": "1302223006"
+    },
+    {
+      "firstName": "Arinza",
+      "lastName": "Aurelvia",
+      "gender": "female",
+      "age": 20,
+      "nim": "1302220022"
+    }
+  ]
+}
