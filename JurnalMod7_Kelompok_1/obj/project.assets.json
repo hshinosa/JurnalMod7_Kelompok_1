@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ksHl\\.nuget\\packages\\": {}
+    "C:\\Users\\fadillah\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KPL\\JurnalMod7_Kelompok_1\\JurnalMod7_Kelompok_1\\JurnalMod7_Kelompok_1.csproj",
+      "projectUniqueName": "C:\\Users\\fadillah\\OneDrive - Telkom University\\Dokumen\\My File\\RPL\\SEMESTER 4\\Kontruksi Perangkat Lunak\\JurnalMod7_Kelompok_1\\JurnalMod7_Kelompok_1\\JurnalMod7_Kelompok_1.csproj",
       "projectName": "JurnalMod7_Kelompok_1",
-      "projectPath": "D:\\KPL\\JurnalMod7_Kelompok_1\\JurnalMod7_Kelompok_1\\JurnalMod7_Kelompok_1.csproj",
-      "packagesPath": "C:\\Users\\ksHl\\.nuget\\packages\\",
-      "outputPath": "D:\\KPL\\JurnalMod7_Kelompok_1\\JurnalMod7_Kelompok_1\\obj\\",
+      "projectPath": "C:\\Users\\fadillah\\OneDrive - Telkom University\\Dokumen\\My File\\RPL\\SEMESTER 4\\Kontruksi Perangkat Lunak\\JurnalMod7_Kelompok_1\\JurnalMod7_Kelompok_1\\JurnalMod7_Kelompok_1.csproj",
+      "packagesPath": "C:\\Users\\fadillah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fadillah\\OneDrive - Telkom University\\Dokumen\\My File\\RPL\\SEMESTER 4\\Kontruksi Perangkat Lunak\\JurnalMod7_Kelompok_1\\JurnalMod7_Kelompok_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ksHl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fadillah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

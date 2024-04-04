@@ -1,0 +1,14 @@
+{
+   "firstName": "Daffa",
+   "lastName": "Fadillah",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Sukabirus",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+   ]
+}
