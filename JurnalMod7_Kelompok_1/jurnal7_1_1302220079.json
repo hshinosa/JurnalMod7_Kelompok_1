@@ -1,0 +1,37 @@
+{
+   "firstName": "Muhammad",
+   "lastName": "Hashfi Hadyan",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Baleendah",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+  "courses": [
+      {
+        "code": "CRI2C4",
+        "name": "Konstruksi Perangkat Lunak"
+      },
+      {
+        "code": "CRI2E4",
+        "name": "Basis Data"
+      },
+      {
+        "code": "CII2J4",
+        "name": "Dasar Jaringan Komputer"
+      },
+      {
+        "code": "CII3B4",
+        "name": "Pemrograman Berbasis Objek"
+      },
+      {
+        "code": "CRJ2H3",
+        "name": "Pengalaman Pengguna"
+      },
+      {
+        "code": "CRI2F2",
+        "name": "Proyek Tingkat II"
+      }
+    ]
+}
